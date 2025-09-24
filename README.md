@@ -4,7 +4,7 @@ Kelas : TI.24.A5
 
 HASIL OUTPUT
 
-<img width="959" height="539" alt="image" src=Gambar.png />
+<img width="959" height="539" alt="image" src=ss step akhir.jpeg />
 
 # Belajar HTML
 

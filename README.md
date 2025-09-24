@@ -22,7 +22,8 @@ Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
 - Hyperlink (<a>)
 
 ## PENJELASAN CODE
-- <!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html>
 <head>
     <title>Tag HTML Dasar</title>

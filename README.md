@@ -1,5 +1,7 @@
 Nama : Muhammad Hafizh Alfauzi
+
 NIM : 312410501
+
 Kelas : TI.24.A5
 
 HASIL OUTPUT
@@ -15,8 +17,8 @@ Tujuan utama dari latihan ini adalah memahami penggunaan tag-tag HTML dasar untu
 
 ## Deskripsi
 Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
-- Heading(<h1>, <h2>, dll.)
-- Paragraf (<p>)
+- Heading(< h1 >, < h2 >, dll.)
+- Paragraf (< p >)
 - Teks dengan format khusus (tebal, miring, mark / highlight)
 - Gambar (<img>)
 - Hyperlink (<a>)
@@ -68,3 +70,6 @@ Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
 
 </body>
 </html>
+
+
+<img src=stepawal.jpeg width="959" height="539" alt="image" />

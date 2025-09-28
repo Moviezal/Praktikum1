@@ -72,4 +72,4 @@ Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
 </html>
 
 
-<img src=stepawal.jpeg width="959" height="539" alt="image" />
+<img src=step1.jpeg width="959" height="539" alt="image" />

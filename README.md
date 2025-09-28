@@ -71,5 +71,6 @@ Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
 </body>
 </html>
 
+```
 
 <img src=step1.jpeg width="959" height="539" alt="image" />
